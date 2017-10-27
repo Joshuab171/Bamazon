@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazoncustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "connect": "^3.6.5",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0",
+    "table": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshuab171/Bamazon.git"
+  },
+  "author": "Joshua Burrows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joshuab171/Bamazon/issues"
+  },
+  "homepage": "https://github.com/Joshuab171/Bamazon#readme"
+}
